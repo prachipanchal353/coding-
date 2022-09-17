@@ -1,5 +1,5 @@
 using System;  
-public class Exercise9  
+public class VowelConsonat 
 {  
     public static void Main() 
 {
