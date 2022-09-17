@@ -1,5 +1,5 @@
 using System;  
-public class VowelConsonant  
+public class Digits 
 {  
     public static void Main() 
 {
